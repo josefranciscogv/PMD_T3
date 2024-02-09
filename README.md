@@ -1,7 +1,7 @@
 # Tarea 3  
 ## Temas    
 -Utilizar colores  
--Utilizar iconos
+-Utilizar iconos  
 -Utilizar Containers con esquinas redondeadas y colores
 -Utilizar textos con style
 -Utilizar stacks  
