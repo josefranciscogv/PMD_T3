@@ -2,8 +2,8 @@
 ## Temas    
 -Utilizar colores  
 -Utilizar iconos  
--Utilizar Containers con esquinas redondeadas y colores
--Utilizar textos con style
+-Utilizar Containers con esquinas redondeadas y colores  
+-Utilizar textos con style  
 -Utilizar stacks  
 -Utilizar imágenes  
 -Utilizar paddings  
